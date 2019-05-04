@@ -1,0 +1,22 @@
+{
+  "name": "helloserver",
+  "version": "1.0.0",
+  "description": "App Server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rezamt/helloserver.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "rezamt@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rezamt/helloserver/issues"
+  },
+  "homepage": "https://github.com/rezamt/helloserver#readme"
+}
